@@ -1,0 +1,13 @@
+# environment
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+.next/
+
+# OS
+.DS_Store
